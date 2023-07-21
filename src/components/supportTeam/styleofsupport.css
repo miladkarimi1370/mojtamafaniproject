@@ -1,0 +1,12 @@
+.wrapper-of-i {
+  position: fixed;
+  right: 5rem;
+  bottom: 5rem;
+}
+.wrapper-of-i i {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.wrapper-of-i i:hover {
+  color: #379cd6;
+}

@@ -1,0 +1,14 @@
+.custom-arrow {
+  position: fixed;
+  bottom: 5rem;
+  left: 5rem;
+}
+.custom-arrow button i {
+  transition: color 0.3s;
+}
+.custom-arrow button i:hover {
+  color: #5fb4e4;
+}
+.custom-arrow button {
+  background-color: transparent !important;
+}

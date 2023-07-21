@@ -1,0 +1,12 @@
+.custom-p {
+  line-height: 2rem;
+}
+
+.custom-link:hover {
+  color: #379cd6;
+  cursor: pointer;
+}
+#inputsearch:placeholder-shown{
+    background-color: rgba(0, 0, 0, 0.281);
+    line-height: 2rem;
+}

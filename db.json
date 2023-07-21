@@ -1,0 +1,127 @@
+{
+    "slider": {
+        "id": 1,
+        "img": "sliderimg.jpg",
+        "name": "education-of-language"
+    },
+    "langauges": [
+        {
+            "id": 1,
+            "name": "china",
+            "img": "china.jpg"
+        },
+        {
+            "id": 2,
+            "name": "France",
+            "img": "france.jpg"
+        },
+        {
+            "id": 3,
+            "name": "german",
+            "img": "german.jpg"
+        },
+        {
+            "id": 4,
+            "name": "spain",
+            "img": "spain.jpg"
+        },
+        {
+            "id": 5,
+            "name": "turkish",
+            "img": "turkish.jpg"
+        },
+        {
+            "id": 6,
+            "name": "austria",
+            "img": "austria.jpg"
+        }
+    ],
+    "Products": [
+        {
+            "id": 1,
+            "title": "تاچ استون 1",
+            "price": 2190000,
+            "booked": 567,
+            "img": "english.jpg"
+        },
+        {
+            "id": 2,
+            "title": "تاچ استون 2",
+            "price": 856000,
+            "booked": 12,
+            "img": "wordskills.jpg"
+        },
+        {
+            "id": 3,
+            "title": "تاچ استون 3",
+            "price": 1945000,
+            "booked": 34,
+            "img": "american.jpg"
+        },
+        {
+            "id": 4,
+            "title": "امریکن انگلیش فایل 2",
+            "price": 376000,
+            "booked": 154,
+            "img": "francebook.png"
+        },
+        {
+            "id": 5,
+            "title": "1100 کلمه ضروری ",
+            "price": 1780000,
+            "booked": 780,
+            "img": "ss.jpg"
+        },
+        {
+            "id": 6,
+            "title": "تاپ ناچ",
+            "price": 2156000,
+            "booked": 76,
+            "img": "venice.png"
+        }
+    ],
+    "achievments": [
+        {
+            "id": 1,
+            "title": "وبینار موفق در زمینه آموزش زبان انگلیسی",
+            "count": 165,
+            "classOfFontAwesome": "fa-video"
+        },
+        {
+            "id": 2,
+            "title": "دانشجو",
+            "count": 2000,
+            "classOfFontAwesome": "fa-users"
+        },
+        {
+            "id": 3,
+            "title": "رتبه برتر در آزمون آیلتس",
+            "count": 177,
+            "classOfFontAwesome": "fa-award"
+        }
+    ],
+    "LogInToCourseOnline": [
+        "blackBoard.jpg",
+        "coursesOnline.png"
+    ],
+    "castOfAcademy": [
+        {
+            "id": 1,
+            "img": "teacher.png",
+            "name": "سرکار خانم سارا حشمتی",
+            "job": "پشتیبانی و مسئول هماهنگی"
+        },
+        {
+            "id": 2,
+            "img": "teacher55.png",
+            "name": "دکتر مرجان گل دشتی",
+            "job": "معاونت مجموعه"
+        },
+        {
+            "id": 1,
+            "img": "medium.png",
+            "name": "دکتر سپیده رحمانی",
+            "job": "مدیریت مجموعه"
+        }
+    ]
+}

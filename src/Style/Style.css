@@ -1,0 +1,76 @@
+:root {
+  --blue-dark: #22689e;
+  --blue-lighter-than-dark: #379cd6;
+  --blue-light: #5fb4e4;
+  --dark-red: #b40719;
+  --grey: #d6d6d6;
+  --grey2: rgba(0, 0, 0, 0.5);
+  --fantesy-color: #00d1ff;
+}
+@font-face {
+  font-family: "vazir";
+  src: url(fonts/webfonts/Vazirmatn-SemiBold.woff2);
+}
+*,
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "vazir";
+}
+body {
+  overflow-x: hidden;
+}
+ol,
+ul,
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.bg-blue-dark {
+  background-color: var(--blue-dark);
+}
+.blue-lighter-than-dark {
+  background-color: var(--blue-lighter-than-dark);
+}
+.bg-blue-light {
+  background-color: var(--blue-light);
+}
+.bg-red-dark {
+  background-color: var(--dark-red);
+}
+.bg-grey {
+  background-color: var(--grey);
+}
+.text-grey {
+  color: var(--grey2);
+}
+.bg-grey2 {
+  background-color: var(--grey2);
+}
+.text-fantesy-color {
+  color: var(--fantesy-color);
+}
+.font-tiny {
+  font-size: 12px;
+}
+.font-text {
+  font-size: 14px;
+}
+.font-title {
+  font-size: 16px;
+}
+.font-big {
+  font-size: 18px;
+}
+.font-very-big {
+  font-size: 20px;
+}
+.text-centering-with-translate {
+  transform: translate(50%, 50%);
+}
+.text-justify{
+  text-align: justify;
+}

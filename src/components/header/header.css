@@ -1,0 +1,18 @@
+.custom-style{
+    margin-bottom: 0;
+    line-height: 2rem;
+}
+.nav-link{
+    transition: color,background-color 0.5s,0.5s;
+}
+.nav-link:hover{
+    color: rgba(0, 0, 0, 0.5) !important;
+    background-color: #ffff;
+}
+.custom-button{
+    height: 100%;
+    border: 0 !important;
+}
+.custom-button:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
